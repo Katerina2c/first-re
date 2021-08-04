@@ -2,6 +2,3 @@ la-la-la
 la-la-la
 Kate
 gui
-
-2ая ветка
-продление ветки
