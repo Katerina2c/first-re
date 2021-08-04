@@ -8,3 +8,5 @@ gui
 дополнение
 
 new commit
+
+make conflict
