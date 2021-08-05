@@ -4,12 +4,5 @@ Kate
 gui
 
 
-добавляю вторую ветку
-дополнение
-
-new commit
-
-make conflict
-
-make2 feature
+05.08
 
